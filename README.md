@@ -1,1 +1,1 @@
-# Lear-a-C-Language-2
+# Learn-a-C-Language-2
